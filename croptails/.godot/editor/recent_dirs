@@ -1,10 +1,12 @@
 res://scene/components
-res://scene/objects/plant
+res://assets/game/Characters
+res://scene/Characters/guide
+res://resources
 res://scripts/globals
+res://scene/objects/plant
 res://scene/ui
 res://assets/ui/fonts
 res://scene/objects
-res://assets/game/Characters
 res://scene/Characters/cow
 res://scene/Characters/chicken
 res://scene/objects/rocks
